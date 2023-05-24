@@ -7,7 +7,9 @@ Image classification is a fundamental problem in computer vision and has a wide 
 
 (1) Object recognition: Identifying specific objects or entities within images, such as cars, animals, or landmarks.
 Scene classification: Categorizing images based on the type of scene they represent, such as beach, mountain, cityscape, or forest.
+
 (2) Medical image analysis: Diagnosing medical conditions based on medical images, such as X-rays, MRIs, or histopathology slides.
+
 (3) Document analysis: Classifying documents based on their content, such as identifying handwritten digits or different types of documents (invoices, forms, letters).
 
 Image classification is typically approached by DLN. Convolutional Neural Networks (CNNs) are widely used for image classification due to their ability to learn hierarchical features from image data. The models are trained on labeled datasets, where images are manually annotated with their corresponding class labels. During training, the model learns to extract relevant features from the images and map them to the correct class labels. Once trained, the model can predict the class label of unseen images.
